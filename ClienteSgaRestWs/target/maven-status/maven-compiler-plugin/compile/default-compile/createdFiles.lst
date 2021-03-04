@@ -1,1 +1,4 @@
-.netbeans_automatic_build
+domain\Persona.class
+test\TestPersonaServiceRS.class
+test\PruebaRestWS.class
+test\TestPersonaServiceRS$1.class
