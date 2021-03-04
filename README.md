@@ -7,5 +7,4 @@ ROLE_USER ("user","user")
 ROLE_GUEST ("guest","guest")
 
 La aplicación lista a las personas por default y también permite agregar, modificar y eleiminar a las mismas.
-
-El objetivo de esta aplicación es meramente de práctica. 
+Esta aplicación tiene como única finalidad practicar JavaEE
