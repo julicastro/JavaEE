@@ -1,4 +1,4 @@
-# JavaEE
+# README.md
 Aplicación web con JSF, PrimeFaces, AJAX, EJB, JPA, Jax-Ws y Jax-Rs en JavaEE 8. Conexión a MySql medienta JTA con servidor GlassFish
 Aplicación de gestión de una base de datos de personas y usuarios que cuenta con seguridad y distintos roles gestionados a través del servidor GlassFish.
 
